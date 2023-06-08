@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.7ad0be55.css",
-    "main.js": "/static/js/main.c34bd164.js",
+    "main.css": "/static/css/main.bf4940d1.css",
+    "main.js": "/static/js/main.36ce0d3b.js",
     "static/media/AlumniSans-VariableFont_wght.ttf": "/static/media/AlumniSans-VariableFont_wght.e9e8e356a5278732a5e7.ttf",
     "static/media/WorkSans-Medium.ttf": "/static/media/WorkSans-Medium.779c9fb872aaad403ec6.ttf",
     "index.html": "/index.html",
-    "main.7ad0be55.css.map": "/static/css/main.7ad0be55.css.map",
-    "main.c34bd164.js.map": "/static/js/main.c34bd164.js.map"
+    "main.bf4940d1.css.map": "/static/css/main.bf4940d1.css.map",
+    "main.36ce0d3b.js.map": "/static/js/main.36ce0d3b.js.map"
   },
   "entrypoints": [
-    "static/css/main.7ad0be55.css",
-    "static/js/main.c34bd164.js"
+    "static/css/main.bf4940d1.css",
+    "static/js/main.36ce0d3b.js"
   ]
 }
