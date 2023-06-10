@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.a636ddad.css",
-    "main.js": "/static/js/main.efe43b2e.js",
+    "main.js": "/static/js/main.4f81017c.js",
     "static/media/AlumniSans-VariableFont_wght.ttf": "/static/media/AlumniSans-VariableFont_wght.e9e8e356a5278732a5e7.ttf",
     "static/media/WorkSans-Medium.ttf": "/static/media/WorkSans-Medium.779c9fb872aaad403ec6.ttf",
     "index.html": "/index.html",
     "main.a636ddad.css.map": "/static/css/main.a636ddad.css.map",
-    "main.efe43b2e.js.map": "/static/js/main.efe43b2e.js.map"
+    "main.4f81017c.js.map": "/static/js/main.4f81017c.js.map"
   },
   "entrypoints": [
     "static/css/main.a636ddad.css",
-    "static/js/main.efe43b2e.js"
+    "static/js/main.4f81017c.js"
   ]
 }
